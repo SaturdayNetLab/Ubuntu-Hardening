@@ -1,3 +1,6 @@
+![banner](banner.svg)
+
+
 # ubuntu-hardening.sh
 
 Interaktives Bash-Skript zur Grundhärtung eines frisch installierten Ubuntu 24.04 LTS Systems. Alle Einstellungen werden vor der Ausführung abgefragt — nichts wird stillschweigend verändert.
