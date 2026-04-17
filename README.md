@@ -98,7 +98,7 @@ Einige Maßnahmen (hidepid, USB-Blacklist) werden erst nach einem Neustart aktiv
 
 ## Lizenz
 
-Internes Werkzeug. Keine Garantie auf Vollständigkeit oder Fehlerfreiheit. Vor dem Einsatz auf Produktivsystemen testen.
+MIT
 
 ---
 ---
@@ -199,4 +199,4 @@ Some measures (hidepid, USB blacklist) only take effect after a reboot.
 
 ## License
 
-Internal tool. No warranty of completeness or correctness. Test before deploying to production systems.
+MIT
